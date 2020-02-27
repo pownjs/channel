@@ -1,0 +1,28 @@
+{
+  "name": "@pown/channel",
+  "version": "2.11.1",
+  "description": "Pownage guaranteed",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pownjs/pown-channel.git"
+  },
+  "keywords": [
+    "channel"
+  ],
+  "author": "pdp <pdp@gnucitizen.org>",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pownjs/pown-channel/issues"
+  },
+  "homepage": "https://github.com/pownjs/pown-channel#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "onetime": "^5.1.0"
+  },
+  "pown": {}
+}
